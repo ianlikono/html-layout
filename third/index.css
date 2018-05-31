@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+.one {
+    padding: 47px;
+    background-color: #D8D8D8;
+}
+
+.logo {
+    float: left;
+    background-color: #4A90E2;
+    padding: 20px;
+    margin-top: -30px;
+    margin-left: -10px;
+}
+
+.two {
+    margin: 10px;
+    padding: 60px;
+}
+
+.three {
+    background-color: #4A90E2;
+    padding: 40px;
+}
+
+.four {
+    background-color: #50E3C2;
+    padding: 40px;
+}
+
+.five {
+    background-color: #B8E986;
+    padding: 40px;
+}
+
+.six {
+    background-color: #F8E71C;
+    padding: 40px;
+}

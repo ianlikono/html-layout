@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Oswald');
+.manyShapes {
+    border-style: solid;
+    border-width: 5px;
+    padding: 80px;
+}
+
+.singleShape {
+    border-style: dotted;
+    border-width: 5px;
+    padding: 100px;
+    margin-top: 30px;
+}
+
+.hello {
+    box-shadow: 5px 10px #888888;
+    border: 1px solid;
+    margin-top: 30px;
+    padding: 70px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.top {
+    text-align: center;
+}
+
+.bottom {
+    text-align: center;
+}
+
+.text {
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    font-stretch: expanded;
+    letter-spacing: 10px;
+}
+
+.purple {
+    float: left;
+    background-color: blueviolet;
+    padding: 15px;
+    margin: -70px;
+    margin-top: -20px;
+    padding-top: 80px;
+    padding-right: 40px;
+}
+
+.green {
+    background-color: green;
+    padding: 60px;
+    margin: -60px;
+    margin-left: 10px;
+    margin-right: 760px;
+}
+
+.blue {
+    float: right;
+    background-color: aqua;
+    border-radius: 50%;
+    padding: 60px;
+    margin: -50px;
+    margin-right: 600px;
+}
+
+.shape {
+    background-color: bisque;
+    margin-top: -80px;
+    margin-bottom: -80px;
+    padding: 80px;
+    box-shadow: 5px 10px #888888;
+}
